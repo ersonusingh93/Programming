@@ -1,0 +1,52 @@
+Linear Algebra:
+
+Vectors and matrices
+Matrix operations (addition, subtraction, multiplication)
+Transpose and inverse
+Eigenvalues and eigenvectors
+Singular value decomposition (SVD)
+Principal Component Analysis (PCA)
+Calculus:
+
+Limits and continuity
+Derivatives and integration
+Partial derivatives
+Gradients and optimization
+Chain rule and multivariate calculus
+Taylor series
+Probability and Statistics:
+
+Probability distributions (normal, binomial, Poisson)
+Bayes' theorem
+Expectation and variance
+Central Limit Theorem
+Hypothesis testing and confidence intervals
+Maximum Likelihood Estimation (MLE)
+Bayesian statistics
+Optimization:
+
+Convex optimization
+Gradient descent
+Stochastic gradient descent
+Newton's method
+Regularization techniques (L1, L2)
+Numerical Methods:
+
+Root finding
+Numerical integration
+Linear and nonlinear systems of equations
+Solving differential equations
+Machine Learning Fundamentals:
+
+Bias-variance tradeoff
+Overfitting and underfitting
+Cross-validation
+Model evaluation metrics (accuracy, precision, recall, F1 score)
+Feature engineering and selection
+Additional Topics (depending on the course):
+
+Fourier transforms
+Wavelets
+Information theory
+Graph theory
+Non-Euclidean geometry

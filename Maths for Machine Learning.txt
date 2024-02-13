@@ -1,0 +1,44 @@
+1. Linear Algebra:
+Vectors and Matrices
+Vector operations (addition, subtraction, scalar multiplication)
+Matrix multiplication and transpose
+Determinants and inverses
+Eigenvalues and eigenvectors
+Singular Value Decomposition (SVD)
+2. Calculus:
+Limits and continuity
+Derivatives and partial derivatives
+Gradient and directional derivatives
+Integration and definite integrals
+Multivariate calculus
+3. Probability and Statistics:
+Probability distributions (discrete and continuous)
+Expectation and variance
+Bayes' theorem
+Central Limit Theorem
+Hypothesis testing and confidence intervals
+Maximum Likelihood Estimation (MLE)
+4. Optimization:
+Unconstrained optimization
+Constrained optimization
+Gradient descent and variants
+Convex optimization
+5. Differential Equations:
+Ordinary Differential Equations (ODEs)
+Partial Differential Equations (PDEs)
+6. Algorithms and Complexity:
+Big-O notation
+Time and space complexity analysis
+Basics of algorithm design and analysis
+7. Machine Learning-Specific Topics:
+Basics of regression and classification
+Overfitting and regularization
+Support Vector Machines (SVM)
+Decision Trees and Random Forests
+Neural networks and deep learning
+8. Additional Topics (Depending on Course Focus):
+Signal processing
+Information theory
+Graph theory
+Bayesian methods
+Reinforcement learning (Markov Decision Processes)
